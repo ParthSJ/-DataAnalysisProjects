@@ -14,7 +14,7 @@ The purpose of this project is to analyze sales and customer data from a retail 
  - Time-Based Revenue Insights
 ### Steps followed 
 
-- Step 1:  Download [db_dump.sql](https://github.com/ParthSJ/-DataAnalysisProjects/edit/main/README.md) file to your local computer and import it in MySQL
+- Step 1:  Download [db_dump.sql](db_dump.sql) file to your local computer and import it in MySQL
 
 - Step 2: Perform Data Analysis Using SQL
 
