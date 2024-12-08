@@ -16,7 +16,7 @@ The purpose of this project is to analyze sales and customer data from a retail 
 
 - Step 1:  Download [db_dump.sql](db_dump.sql) file to your local computer and import it in MySQL
 
-- Step 2: Perform Data Analysis Using SQL
+- Step 2: Perform Data Analysis Using MySQL
 
   Execute queries to retrieve customer records, market-specific transactions, and revenue trends.
 
